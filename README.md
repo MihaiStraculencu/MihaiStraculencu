@@ -11,14 +11,6 @@
 
 # 💻 Tech Stack:
 
-<style>
-  /* Custom CSS for bigger icons */
-  td img {
-    width: 80px;
-    height: 80px;
-  }
-</style>
-
 <p align="center">
   <table>
     <tr>
