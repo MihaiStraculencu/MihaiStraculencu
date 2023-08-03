@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi 👋, I'm Mihai&fontSize=90)
 
-
-<h1 align="center"></h1>
+<h1 align="center">Hi 👋, I'm Mihai</h1>
 <h3 align="center">Front End Developer working with React Typescript Tailwind CSS</h3>
 
 # 💫 About Me:
