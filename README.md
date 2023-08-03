@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋%20I'm%20Mihai&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20👋%20I'm%20Mihai&fontSize=60)
 <h3 align="center">
 <p>
 Front End Developer working with React Typescript Tailwind CSS
