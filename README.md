@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&desc=Hi%I%am%Mihai&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%I%am%Mihai&textBg=true)
 
 <h3 align="center">Front End Developer working with React Typescript Tailwind CSS</h3>
 
