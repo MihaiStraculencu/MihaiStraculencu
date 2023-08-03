@@ -1,6 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%I%am%Mihai&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋%20I'm%20Mihai&fontSize=90)
+<h3 align="center">
+<p>
+Front End Developer working with React Typescript Tailwind CSS
+</p>
 
-<h3 align="center">Front End Developer working with React Typescript Tailwind CSS</h3>
+[![](https://visitcount.itsvg.in/api?id=MihaiStraculencu&icon=0&color=0)](https://visitcount.itsvg.in)
+</h3>
 
 # 💫 About Me:
 
@@ -31,7 +36,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiStraculencu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Stats" />
 </p>
 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=MihaiStraculencu&icon=0&color=0)](https://visitcount.itsvg.in)
