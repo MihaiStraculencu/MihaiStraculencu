@@ -15,9 +15,21 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MihaiStraculencu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MihaiStraculencu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiStraculencu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihaiStraculencu&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihaiStraculencu&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Top Languages Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiStraculencu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Stats" />
+</p>
+
 
 ---
 
