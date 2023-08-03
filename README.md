@@ -16,63 +16,52 @@
     <td align="center">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       <br />
-      CSS3
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <br />
-      JavaScript
+      <br /
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <br />
-      TypeScript
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
       <br />
-      Vercel
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
       <br />
-      Firebase
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
       <br />
-      NPM
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
       <br />
-      Next JS
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
       <br />
-      React
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
       <br />
-      TailwindCSS
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
       <br />
-      Adobe Photoshop
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
       <br />
-      Canva
     </td>
     <td></td>
   </tr>
