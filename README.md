@@ -9,7 +9,7 @@ Front End Developer working with React Typescript Tailwind CSS
 
 # 💫 About Me:
 
-🔭 I’m currently learning Python<br> 📫 How to reach me: mihaistraculencu83@gmail.com
+🔭 I’m currently learning Java<br> 📫 How to reach me: mihaistraculencu83@gmail.com
 
 ## 🌐 Socials:
 
