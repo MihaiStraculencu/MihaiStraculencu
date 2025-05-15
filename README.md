@@ -3,14 +3,6 @@
 ## About Me
 Frontend Developer focused on building responsive web applications. I enjoy creating scalable UI components and optimizing performance. My journey includes developing business websites and personal projects that demonstrate my commitment to clean code and a good user experience.
 
-```javascript
-const mihai = {
-  code: ['JavaScript', 'TypeScript', 'Java'],
-  tools: ['React.js', 'Next.js', 'Tailwind CSS', 'Spring', 'Firebase'],
-  challenge: "Currently deep diving into full-stack development"
-}
-```
-
 ## 🛠️ Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,7 +11,6 @@ const mihai = {
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
