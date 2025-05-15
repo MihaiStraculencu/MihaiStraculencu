@@ -1,21 +1,41 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20👋%20I'm%20Mihai&fontSize=60)
-<h3 align="center">
-<p>
-Front End Developer working with React Typescript Tailwind CSS
-</p>
+# Hi, I'm Mihai Straculencu 👋
 
-[![](https://visitcount.itsvg.in/api?id=MihaiStraculencu&icon=0&color=0)](https://visitcount.itsvg.in)
-</h3>
+## About Me
+Frontend Developer focused on building responsive web applications. I enjoy creating scalable UI components and optimizing performance. My journey includes developing business websites and personal projects that demonstrate my commitment to clean code and a good user experience.
 
-# 💫 About Me:
+```javascript
+const mihai = {
+  code: ['JavaScript', 'TypeScript', 'Java'],
+  tools: ['React.js', 'Next.js', 'Tailwind CSS', 'Spring', 'Firebase'],
+  challenge: "Currently deep diving into full-stack development"
+}
+```
 
-🔭 I’m currently learning Java<br> 📫 How to reach me: mihaistraculencu83@gmail.com
+## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-## 🌐 Socials:
+## 🚀 Projects
+- **Business Websites**: Built websites for Raypath, Sophia Houses, and Betonix using Next.js and Tailwind CSS
+- **Twitter Clone**: Created with React.js and Firebase for real-time features and authentication
+- **Calculator App**: Built with React.js focusing on UI and state management
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/straculencu-mihai)
 
-# 💻 Tech Stack:
+## 📫 Let's Connect
+- **Email**: mihaistraculencu83@gmail.com
+- **Location**: Romania
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
+⭐️ From [straculencu-mihai](https://github.com/straculencu-mihai)
